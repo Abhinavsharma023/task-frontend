@@ -1,0 +1,47 @@
+/* styles.css */
+@media (max-width: 640px) {
+    .sidebar-title {
+      font-size: 1.5rem;
+    }
+  
+    .sidebar-item {
+      font-size: 0.875rem;
+    }
+  }
+  
+
+  /* styles.css */
+@media (max-width: 640px) {
+    .card-title {
+      font-size: 1.25rem; /* Adjust title size for small screens */
+    }
+  }
+  
+
+  /* styles.css */
+@media (max-width: 768px) {
+    .home-container {
+      padding: 1rem; /* Less padding on smaller screens */
+    }
+  
+    .sidebar {
+      width: 100%; /* Sidebar takes full width on smaller screens */
+    }
+  
+    .main-content {
+      width: 100%; /* Main content takes full width on smaller screens */
+    }
+  }
+  
+
+  /* styles.css */
+@media (max-width: 768px) {
+    .custom-padding {
+      padding: 1rem; /* Adjust padding for smaller screens */
+    }
+  
+    .custom-card {
+      font-size: 0.875rem; /* Adjust font size for cards on smaller screens */
+    }
+  }
+  
